@@ -1,0 +1,16 @@
+{
+  "name": "qwen-todo-app",
+  "version": "1.0.0",
+  "description": "A beautiful To-Do List application with calendar and timer",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["todo", "calendar", "timer", "productivity"],
+  "author": "Your Name",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
